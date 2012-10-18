@@ -1,6 +1,6 @@
 # VitGui
 
-So what I'm pretty much doing is rewritting (http://wiki.roblox.com/index.php/RbxGui) this.
+So what I'm pretty much doing is rewritting [this](http://wiki.roblox.com/index.php/RbxGui).
 
 Because I've been told that their library is a bit buggy and ugly and I need something to develop so yeah. 
 
